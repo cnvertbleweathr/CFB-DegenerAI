@@ -10,4 +10,5 @@
 
 **Initial Assumptions**
 - [College Football API](https://api.collegefootballdata.com/api/docs/?url=/api-docs.json) will the the main source
-- 
+- A numerical scale will need to be created based on analysis of contributing factors to trend
+- Weighting will need to be attributed to different factors for the future, based on past performance.
