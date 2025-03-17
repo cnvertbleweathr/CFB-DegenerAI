@@ -6,8 +6,8 @@
 - Matillion for Data ingestion to AWS S3 
 - dbt for flattening, SCD Type 2 to update
 - dbt for analysis & production-ready analysis
-- (Snowflake Cortex for RAG and Query)[https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/#0]
+- [Snowflake Cortex for RAG and Query](https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/#0)
 
 **Initial Assumptions**
-- (College Football API)[https://api.collegefootballdata.com/api/docs/?url=/api-docs.json] will the the main source
+- [College Football API](https://api.collegefootballdata.com/api/docs/?url=/api-docs.json) will the the main source
 - 
