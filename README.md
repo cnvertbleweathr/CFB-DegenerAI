@@ -1,5 +1,7 @@
 # cfbbetting_prediction
 
+![alt text](https://sdmntpreastus.oaiusercontent.com/files/00000000-542c-61f9-9b7c-c2ea5a4a33f4/raw?se=2025-05-11T04%3A54%3A59Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-10T19%3A19%3A59Z&ske=2025-05-11T19%3A19%3A59Z&sks=b&skv=2024-08-04&sig=biwARq4oAc78mMOXAwZpc6bMjP/5tlziEpFuIbm7Qck%3D "DegenerAI")
+
 **Flow/Stack**
 - AWS S3 for staging, Snowflake for warehousing
 - Matillion for orchestration
